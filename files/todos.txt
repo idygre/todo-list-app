@@ -1,6 +1,2 @@
-cook
 clean
-bake
 mop
-hi
-sports
