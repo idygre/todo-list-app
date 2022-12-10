@@ -1,9 +1,4 @@
+cook
+clean
 bake
-cook
-cleanhi
-cook
-cook
-clean
-cook
-clean
-hi
+mop
