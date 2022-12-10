@@ -4,3 +4,6 @@ cleanhi
 cook
 cook
 clean
+cook
+clean
+hi
